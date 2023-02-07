@@ -1,4 +1,4 @@
 .section{
-    background-color: bisque;
     height: calc(100vh - 65px);
+    background-color: var(--bg-color);
 }

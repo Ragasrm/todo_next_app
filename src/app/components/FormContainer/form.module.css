@@ -1,5 +1,9 @@
 .formcontainer {
-    background-color: blue;
     height: auto;
     padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: var(--bg-card);
+    color: var(--white);
 }

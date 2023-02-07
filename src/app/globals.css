@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+:root{
+  --bg-color: #292626;
+  --bg-card: #434343;
+  --white: #fff;
+  --yellow: #ffe002;
+}
 /* :root {
   --max-width: 1100px;
   --border-radius: 12px;
