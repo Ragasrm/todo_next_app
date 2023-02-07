@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Overview of the project
+
+This project is planned to make TODO app with Next JS with typeScript and redux.
+Mainly focused on UTC for each component under this project.
+
 ## Getting Started
 
 First, run the development server:
